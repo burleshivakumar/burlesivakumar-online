@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/burlesivakumar-online/static/css/main.474279df.chunk.css",
-    "main.js": "/burlesivakumar-online/static/js/main.db8d958f.chunk.js",
-    "main.js.map": "/burlesivakumar-online/static/js/main.db8d958f.chunk.js.map",
+    "main.css": "/burlesivakumar-online/static/css/main.8b864385.chunk.css",
+    "main.js": "/burlesivakumar-online/static/js/main.163fe6d6.chunk.js",
+    "main.js.map": "/burlesivakumar-online/static/js/main.163fe6d6.chunk.js.map",
     "runtime-main.js": "/burlesivakumar-online/static/js/runtime-main.b340f194.js",
     "runtime-main.js.map": "/burlesivakumar-online/static/js/runtime-main.b340f194.js.map",
     "static/js/2.e2c546af.chunk.js": "/burlesivakumar-online/static/js/2.e2c546af.chunk.js",
     "static/js/2.e2c546af.chunk.js.map": "/burlesivakumar-online/static/js/2.e2c546af.chunk.js.map",
     "index.html": "/burlesivakumar-online/index.html",
-    "static/css/main.474279df.chunk.css.map": "/burlesivakumar-online/static/css/main.474279df.chunk.css.map",
+    "static/css/main.8b864385.chunk.css.map": "/burlesivakumar-online/static/css/main.8b864385.chunk.css.map",
     "static/js/2.e2c546af.chunk.js.LICENSE.txt": "/burlesivakumar-online/static/js/2.e2c546af.chunk.js.LICENSE.txt",
     "static/media/React-logo-icon.3adc4d15.svg": "/burlesivakumar-online/static/media/React-logo-icon.3adc4d15.svg",
     "static/media/full-star-no-bg.685f7e7a.png": "/burlesivakumar-online/static/media/full-star-no-bg.685f7e7a.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.b340f194.js",
     "static/js/2.e2c546af.chunk.js",
-    "static/css/main.474279df.chunk.css",
-    "static/js/main.db8d958f.chunk.js"
+    "static/css/main.8b864385.chunk.css",
+    "static/js/main.163fe6d6.chunk.js"
   ]
 }
