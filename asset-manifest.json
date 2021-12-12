@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/burlesivakumar-online/static/css/main.ddc96537.chunk.css",
+    "main.css": "/burlesivakumar-online/static/css/main.85db8629.chunk.css",
     "main.js": "/burlesivakumar-online/static/js/main.5a5bc36a.chunk.js",
     "main.js.map": "/burlesivakumar-online/static/js/main.5a5bc36a.chunk.js.map",
     "runtime-main.js": "/burlesivakumar-online/static/js/runtime-main.b340f194.js",
@@ -8,7 +8,7 @@
     "static/js/2.57f1ed54.chunk.js": "/burlesivakumar-online/static/js/2.57f1ed54.chunk.js",
     "static/js/2.57f1ed54.chunk.js.map": "/burlesivakumar-online/static/js/2.57f1ed54.chunk.js.map",
     "index.html": "/burlesivakumar-online/index.html",
-    "static/css/main.ddc96537.chunk.css.map": "/burlesivakumar-online/static/css/main.ddc96537.chunk.css.map",
+    "static/css/main.85db8629.chunk.css.map": "/burlesivakumar-online/static/css/main.85db8629.chunk.css.map",
     "static/js/2.57f1ed54.chunk.js.LICENSE.txt": "/burlesivakumar-online/static/js/2.57f1ed54.chunk.js.LICENSE.txt",
     "static/media/azure-logo.5a694f18.png": "/burlesivakumar-online/static/media/azure-logo.5a694f18.png",
     "static/media/css-logo.19c8605d.png": "/burlesivakumar-online/static/media/css-logo.19c8605d.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.b340f194.js",
     "static/js/2.57f1ed54.chunk.js",
-    "static/css/main.ddc96537.chunk.css",
+    "static/css/main.85db8629.chunk.css",
     "static/js/main.5a5bc36a.chunk.js"
   ]
 }
