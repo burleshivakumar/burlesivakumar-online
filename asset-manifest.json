@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/resume-with-react/static/css/main.979c3d44.chunk.css",
-    "main.js": "/resume-with-react/static/js/main.97c4ee50.chunk.js",
-    "main.js.map": "/resume-with-react/static/js/main.97c4ee50.chunk.js.map",
-    "runtime-main.js": "/resume-with-react/static/js/runtime-main.18625294.js",
-    "runtime-main.js.map": "/resume-with-react/static/js/runtime-main.18625294.js.map",
-    "static/js/2.5d2878aa.chunk.js": "/resume-with-react/static/js/2.5d2878aa.chunk.js",
-    "static/js/2.5d2878aa.chunk.js.map": "/resume-with-react/static/js/2.5d2878aa.chunk.js.map",
-    "index.html": "/resume-with-react/index.html",
-    "static/css/main.979c3d44.chunk.css.map": "/resume-with-react/static/css/main.979c3d44.chunk.css.map",
-    "static/js/2.5d2878aa.chunk.js.LICENSE.txt": "/resume-with-react/static/js/2.5d2878aa.chunk.js.LICENSE.txt",
-    "static/media/azure-logo.5a694f18.png": "/resume-with-react/static/media/azure-logo.5a694f18.png",
-    "static/media/css-logo.19c8605d.png": "/resume-with-react/static/media/css-logo.19c8605d.png",
-    "static/media/full-star-no-bg.685f7e7a.png": "/resume-with-react/static/media/full-star-no-bg.685f7e7a.png",
-    "static/media/half-filled-star-no-bg.4bc0fd57.png": "/resume-with-react/static/media/half-filled-star-no-bg.4bc0fd57.png",
-    "static/media/java-logo.1459906d.png": "/resume-with-react/static/media/java-logo.1459906d.png",
-    "static/media/javascript-logo.0e27ae15.png": "/resume-with-react/static/media/javascript-logo.0e27ae15.png",
-    "static/media/logo_s_black.62c7e6a4.svg": "/resume-with-react/static/media/logo_s_black.62c7e6a4.svg",
-    "static/media/node-logo.0f9df91a.png": "/resume-with-react/static/media/node-logo.0f9df91a.png",
-    "static/media/sql-logo.ff604802.png": "/resume-with-react/static/media/sql-logo.ff604802.png"
+    "main.css": "/burlesivakumar-online/static/css/main.979c3d44.chunk.css",
+    "main.js": "/burlesivakumar-online/static/js/main.1d9cfea5.chunk.js",
+    "main.js.map": "/burlesivakumar-online/static/js/main.1d9cfea5.chunk.js.map",
+    "runtime-main.js": "/burlesivakumar-online/static/js/runtime-main.b340f194.js",
+    "runtime-main.js.map": "/burlesivakumar-online/static/js/runtime-main.b340f194.js.map",
+    "static/js/2.57f1ed54.chunk.js": "/burlesivakumar-online/static/js/2.57f1ed54.chunk.js",
+    "static/js/2.57f1ed54.chunk.js.map": "/burlesivakumar-online/static/js/2.57f1ed54.chunk.js.map",
+    "index.html": "/burlesivakumar-online/index.html",
+    "static/css/main.979c3d44.chunk.css.map": "/burlesivakumar-online/static/css/main.979c3d44.chunk.css.map",
+    "static/js/2.57f1ed54.chunk.js.LICENSE.txt": "/burlesivakumar-online/static/js/2.57f1ed54.chunk.js.LICENSE.txt",
+    "static/media/azure-logo.5a694f18.png": "/burlesivakumar-online/static/media/azure-logo.5a694f18.png",
+    "static/media/css-logo.19c8605d.png": "/burlesivakumar-online/static/media/css-logo.19c8605d.png",
+    "static/media/full-star-no-bg.685f7e7a.png": "/burlesivakumar-online/static/media/full-star-no-bg.685f7e7a.png",
+    "static/media/half-filled-star-no-bg.4bc0fd57.png": "/burlesivakumar-online/static/media/half-filled-star-no-bg.4bc0fd57.png",
+    "static/media/java-logo.1459906d.png": "/burlesivakumar-online/static/media/java-logo.1459906d.png",
+    "static/media/javascript-logo.0e27ae15.png": "/burlesivakumar-online/static/media/javascript-logo.0e27ae15.png",
+    "static/media/logo_s_black.62c7e6a4.svg": "/burlesivakumar-online/static/media/logo_s_black.62c7e6a4.svg",
+    "static/media/node-logo.0f9df91a.png": "/burlesivakumar-online/static/media/node-logo.0f9df91a.png",
+    "static/media/sql-logo.ff604802.png": "/burlesivakumar-online/static/media/sql-logo.ff604802.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.18625294.js",
-    "static/js/2.5d2878aa.chunk.js",
+    "static/js/runtime-main.b340f194.js",
+    "static/js/2.57f1ed54.chunk.js",
     "static/css/main.979c3d44.chunk.css",
-    "static/js/main.97c4ee50.chunk.js"
+    "static/js/main.1d9cfea5.chunk.js"
   ]
 }
